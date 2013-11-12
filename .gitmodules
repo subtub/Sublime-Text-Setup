@@ -1,3 +1,6 @@
 [submodule "Packages/CoffeeScript"]
 	path = Packages/CoffeeScript
 	url = https://github.com/Xavura/CoffeeScript-Sublime-Plugin.git
+[submodule "Packages/Processing"]
+	path = Packages/Processing
+	url = https://github.com/b-g/processing-sublime/
