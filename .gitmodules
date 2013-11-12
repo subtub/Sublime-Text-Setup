@@ -1,0 +1,3 @@
+[submodule "Packages/CoffeeScript"]
+	path = Packages/CoffeeScript
+	url = https://github.com/Xavura/CoffeeScript-Sublime-Plugin.git
