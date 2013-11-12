@@ -1,0 +1,11 @@
+###
+# General Files
+###
+*.DS_Store
+
+###
+# Sublime Text Files
+###
+Cache/
+Index/
+Local/
