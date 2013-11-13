@@ -1,0 +1,8 @@
+<snippet>
+  <content><![CDATA["devDependencies": {
+  "${1:package}": "${2:version}"
+}]]></content>
+  <description>Add devDependencies to package.json</description>
+  <tabTrigger>devDependencies</tabTrigger>
+  <scope>source.json</scope>
+</snippet>

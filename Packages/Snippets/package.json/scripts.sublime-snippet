@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA["scripts": {
+  "start": "${1:node server.js}",
+  "test": "${2:make test}",
+}]]></content>
+  <description>Add scripts to package.json</description>
+  <tabTrigger>scripts</tabTrigger>
+  <scope>source.json</scope>
+</snippet>
