@@ -18,3 +18,10 @@ git submodule update
 cd "/Users/wng/Library/Application Support/"
 git pull
 ```
+
+
+### Adding Sublime Packages
+
+```
+git submodule add http://url.git Packages/PackageNameHere
+```
