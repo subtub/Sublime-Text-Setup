@@ -7,3 +7,15 @@
 [submodule "Packages/SnippetMaker"]
 	path = Packages/SnippetMaker
 	url = https://github.com/jugyo/SublimeSnippetMaker.git
+[submodule "Packages/MarkdownEditing"]
+	path = Packages/MarkdownEditing
+	url = https://github.com/ttscoff/MarkdownEditing.git
+[submodule "Packages/ColorPicker"]
+	path = Packages/ColorPicker
+	url = https://github.com/weslly/ColorPicker.git
+[submodule "Packages/Git"]
+	path = Packages/Git
+	url = https://github.com/kemayo/sublime-text-git.git
+[submodule "Packages/Package Control"]
+	path = Packages/Package Control
+	url = https://github.com/wbond/sublime_package_control.git
