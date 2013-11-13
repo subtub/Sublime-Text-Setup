@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[var ${1:tmp} = ${2:'foo'};]]></content>
+  <tabTrigger>var</tabTrigger>
+  <description>add a new variable</description>
+  <scope>source.js</scope>
+</snippet>

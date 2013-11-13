@@ -1,0 +1,20 @@
+<snippet>
+  <content><![CDATA[/**
+ * Description of the class.
+ */
+function ${1:ClassName}() {
+
+}
+
+/**
+ * [description]
+ * @param  {[type]} ${3:param} [description]
+ * @return {[type]} [description]
+ */
+${1:ClassName}.prototype.${2:methodName} = function(${3:param}) {
+  return ${3:param};
+};]]></content>
+  <tabTrigger>class</tabTrigger>
+  <description>add a class object</description>
+  <scope>source.js</scope>
+</snippet>
