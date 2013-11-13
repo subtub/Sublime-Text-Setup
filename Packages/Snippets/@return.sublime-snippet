@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[@return ${1:parameter}]]></content>
+  <description>@return</description>
+  <tabTrigger>return</tabTrigger>
+</snippet>
