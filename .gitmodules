@@ -22,3 +22,6 @@
 [submodule "Packages/DashDoc"]
 	path = Packages/DashDoc
 	url = https://github.com/Kapeli/DashDoc.git
+[submodule "Packages/jsdocs"]
+	path = Packages/jsdocs
+	url = https://github.com/spadgos/sublime-jsdocs.git
