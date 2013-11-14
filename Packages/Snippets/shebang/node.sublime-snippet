@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[#!/usr/bin/node]]></content>
+  <description>create node.js shebang</description>
+  <tabTrigger>#!node</tabTrigger>
+</snippet>

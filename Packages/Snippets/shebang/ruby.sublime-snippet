@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[#!/usr/bin/ruby]]></content>
+  <description>create ruby shebang</description>
+  <tabTrigger>#!ruby</tabTrigger>
+</snippet>

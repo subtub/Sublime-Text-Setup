@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[#!/bin/sh]]></content>
+  <description>create shell shebang</description>
+  <tabTrigger>#!sh</tabTrigger>
+</snippet>
