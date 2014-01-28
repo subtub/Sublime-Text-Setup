@@ -1,0 +1,9 @@
+<snippet>
+  <content><![CDATA[/**
+ * Module dependencies.
+ */
+var ${1:fs} = require('${1:fs}');]]></content>
+  <tabTrigger>module</tabTrigger>
+  <description>add module deps comment and code.</description>
+  <scope>source.js</scope>
+</snippet>
