@@ -1,0 +1,5 @@
+<snippet>
+  <content><![CDATA[#!/usr/bin/env ${1:lang}]]></content>
+  <description>create an usr/bin/env shebang.</description>
+  <tabTrigger>#!</tabTrigger>
+</snippet>

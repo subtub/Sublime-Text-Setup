@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[#!/usr/bin/python]]></content>
+  <content><![CDATA[#!/usr/bin/env python]]></content>
   <description>create python shebang</description>
   <tabTrigger>#!python</tabTrigger>
 </snippet>
