@@ -1,6 +1,6 @@
 # Sublime-Text-Setup
 
-This is the Sublime Text setup for the subtub team.
+Some "Sublime Text" settings and snippets the subtub team is using.
 
 
 ## Installation
@@ -18,7 +18,7 @@ git submodule update
 To update the Sublime-Text-Setup run:
 
 ```
-cd "/Users/wng/Library/Application Support/"
+cd "/Users/wng/Library/Application Support/Sublime Text 3"
 git pull
 ```
 
