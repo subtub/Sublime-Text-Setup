@@ -1,6 +1,6 @@
 # Sublime-Text-Setup
 
-Some "Sublime Text" settings and snippets from the football team.
+Some "Sublime Text" settings and snippets from the subtub team.
 
 
 ## Installation
