@@ -1,0 +1,6 @@
+<snippet>
+  <content><![CDATA[console.log('${1:some words}');]]></content>
+  <tabTrigger>cl</tabTrigger>
+  <description>Add console.log('...');</description>
+  <scope>source.js</scope>
+</snippet>
