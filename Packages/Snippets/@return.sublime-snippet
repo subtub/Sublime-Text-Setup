@@ -1,5 +1,5 @@
 <snippet>
-  <content><![CDATA[@return ${1:parameter}]]></content>
-  <description>@return</description>
-  <tabTrigger>return</tabTrigger>
+  <content><![CDATA[@return ${1:description here}]]></content>
+  <description>Add "@return"</description>
+  <tabTrigger>@ret</tabTrigger>
 </snippet>
