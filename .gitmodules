@@ -25,3 +25,6 @@
 [submodule "Packages/jsdocs"]
 	path = Packages/jsdocs
 	url = https://github.com/spadgos/sublime-jsdocs.git
+[submodule "Packages/Theme - Soda"]
+	path = Packages/Theme - Soda
+	url = https://github.com/buymeasoda/soda-theme/
